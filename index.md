@@ -8,7 +8,7 @@ Gothic engine. Under heavy development.
 - XBoard protocol
 - Source code. Never available to limit copypaste-culture
 - Bug free movegenerator
-- Made to be easily adapted to other variants
+- Written to be easily adapted to other variants
 
 ## Background
 I got tired of standard chess and wrote from scratch a new variant engine.
