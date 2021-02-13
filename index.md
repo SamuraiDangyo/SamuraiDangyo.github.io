@@ -1,14 +1,14 @@
 # Havoc engine
-Gothic engine. Under heavy development.
+Gothic Chess Engine. Under heavy development.
 
 ## Technical
-- Written in C++17. 
+- Written in C++17
 - make() + unmake()
 - Object oriented. No globals
 - XBoard protocol
 - Bug free movegenerator
 - Written to be easily adapted to other variants
-- Source code never available not to get plagued by copypaste-bois
+- Source code closed. Because it's impossible to compete with open source
 
 ## Background
 I got tired of standard chess and wrote from scratch a new variant engine.
@@ -20,7 +20,6 @@ But weaker. Hopefully Havoc will be much stronger.
 
 I have decided never publish the source code. 
 Mayhem will be my last open source contribution.
-No Havoc source code will be made available. 
 I might give binaries to testers. 
 As I enjoy watching Havoc play.
 
