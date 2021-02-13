@@ -1,6 +1,7 @@
 # Havoc engine
 Gothic engine. Under heavy development.
 
+## Technical
 - Written in C++17. 
 - make() + unmake()
 - Object oriented. No globals
@@ -34,5 +35,6 @@ Finished game 68 (Fairy-Max 5.0b vs Havoc 0.7): * {No result}
 Score of Havoc 0.7 vs Fairy-Max 5.0b: 11 - 51 - 5  [0.201] 67
 Elo difference: -239.21 +/- 103.37
 ```
+
 ## Credits
 Thanks to H.G.Muller for XBoard and Fairy-Max 5.0b
