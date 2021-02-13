@@ -6,9 +6,9 @@ Gothic engine. Under heavy development.
 - make() + unmake()
 - Object oriented. No globals
 - XBoard protocol
-- Source code. Never available to limit copypaste-culture
 - Bug free movegenerator
 - Written to be easily adapted to other variants
+- Source code never available not to get plagued by copypaste-bois
 
 ## Background
 I got tired of standard chess and wrote from scratch a new variant engine.
