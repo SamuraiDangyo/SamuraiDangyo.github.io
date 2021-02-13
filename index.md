@@ -22,11 +22,13 @@ I might give binaries to testers.
 As I enjoy watching Havoc playing.
 
 ## Blitz 3+0 results vs Fairy-Max 5.0b: 
+```
 4 wins and 6 losses
+```
 
 ## 2s game results vs Fairy-Max 5.0b:
-`
+```
 Finished game 68 (Fairy-Max 5.0b vs Havoc 0.7): * {No result}
 Score of Havoc 0.7 vs Fairy-Max 5.0b: 11 - 51 - 5  [0.201] 67
 Elo difference: -239.21 +/- 103.37
-`
+```
