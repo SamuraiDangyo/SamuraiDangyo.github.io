@@ -3,36 +3,37 @@ Gothic Chess Engine. Under heavy development.
 
 ## Technical
 - Written in C++17
+- Gothic + Capablanca variants supported
 - make() + unmake()
 - Object oriented. No globals
+- Multithreaded
 - XBoard protocol
 - Bug free movegenerator
 - Written to be easily adapted to other variants
-- Source code closed. Because it's impossible to compete with open source
+- Closed source. Open source is not the right model for Havoc
 
 ## Background
-I got tired of standard chess and wrote from scratch a new variant engine.
-Gothic engine from scratch in a few days.
+I got bored tired of standard(8x8) chess.
+And wrote from scratch a new variant engine.
 
 Havoc is improving rapidly as I find more speedups and tricks.
 Right now it's much faster than Fairy-Max 5.0b.
 But weaker. Hopefully Havoc will be much stronger.
 
-I have decided never publish the source code. 
+I have decided never publish the source code.
 Mayhem will be my last open source contribution.
+
 I might give binaries to testers. 
 As I enjoy watching Havoc play.
 
-## Blitz 3+0 results vs Fairy-Max 5.0b: 
+## Results ( Havoc 0.82 v Fairy-Max 5.0b / 10x8 Capablanca / 10+0.1 ): 
 ```
-4 wins and 6 losses
-```
-
-## 2s game results vs Fairy-Max 5.0b:
-```
-Finished game 68 (Fairy-Max 5.0b vs Havoc 0.7): * {No result}
-Score of Havoc 0.7 vs Fairy-Max 5.0b: 11 - 51 - 5  [0.201] 67
-Elo difference: -239.21 +/- 103.37
+Score of Havoc 0.82 vs Fairy-Max 5.0b: 29 - 67 - 4  [0.310] 100
+...      Havoc 0.82 playing White: 10 - 39 - 1  [0.210] 50
+...      Havoc 0.82 playing Black: 19 - 28 - 3  [0.410] 50
+...      White vs Black: 38 - 58 - 4  [0.400] 100
+Elo difference: -139.0 +/- 73.3, LOS: 0.0 %, DrawRatio: 4.0 %
+Finished match
 ```
 
 ## Credits
