@@ -25,7 +25,8 @@ Taking a break from open source.
 I might give binaries to testers. 
 As I enjoy watching Havoc play.
 
-## Results ( Havoc 1.0 vs Fairy-Max 5.0b / 10x8 Capablanca ): 
+## Results:
+10x8 Capablanca / ultra bullet tc
 ```
 Score of Havoc 1.0 vs Fairy-Max 5.0b: 581 - 307 - 112  [0.637] 1000
 ...      Havoc 1.0 playing White: 270 - 175 - 55  [0.595] 500
